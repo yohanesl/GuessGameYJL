@@ -64,11 +64,6 @@ public class GuessGame {
 	   } // end method
      } // end class
 			
-			}
-					+ "
-		}
 		// TODO Auto-generated method stub
 
-	}
 
-}
